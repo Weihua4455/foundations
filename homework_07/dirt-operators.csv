@@ -1,0 +1,21 @@
+Coal or Metal,Commodity,Mine Name,Mine Type,Operator ID,Operator Name,State,Status
+M ,"Crushed, Broken Stone NEC ",Newberg Rock & Dirt,Surface,3503598,Newberg Rock & Dirt  ,OR ,Active 
+M ,Construction Sand and Gravel ,BENDER SAND & DIRT,Surface,1401575,Bender Sand & Dirt  ,KS ,Intermittent 
+M ,Construction Sand and Gravel ,Bush Pilot,Surface,5001797,Dirt Company  ,AK ,Intermittent 
+M ,Construction Sand and Gravel ,Rock Lake Plant,Surface,2103723,Dirt Doctor Inc  ,MN ,Intermittent 
+M ,Construction Sand and Gravel ,Astec Plant,Surface,2103914,Dirt Work Specialists LLC  ,MN ,Intermittent 
+M ,Construction Sand and Gravel ,Portable #1,Surface,4104757,Dirt Works  ,TX ,Intermittent 
+M ,"Sand, Common ",River Road Pit,Surface,0801306,"Holley Dirt Company, Inc  ",FL ,Active 
+M ,Construction Sand and Gravel ,PORTABLE SCREENER,Surface,3901432,Krueger Brothers Gravel & Dirt  ,SD ,Intermittent 
+M ,Construction Sand and Gravel ,Forbes Pit,Surface,3609624,M R Dirt  ,PA ,Temporarily Idled 
+M ,Dimension Stone NEC ,Camptown Quarry,Surface,3609931,M.R. Dirt Inc.  ,PA ,Intermittent 
+C ,Coal (Bituminous) ,Fedscreek Surface,Surface,1519799,"P B Dirt Movers, Inc  ",KY ,Active 
+C , ,No. 3,Surface,4407379,"P B Dirt Movers, Inc.  ",VA ,New Mine 
+C ,Coal (Bituminous) ,Mine No. 6,Underground,4407296,PB Dirt Movers  ,VA ,Temporarily Idled 
+M ,Construction Sand and Gravel ,Sandretto Drive,Surface,0203332,"Prescott Dirt, LLC  ",AZ ,Intermittent 
+M ,Construction Sand and Gravel ,R D BLANKENSHIP DIRT WORK,Surface,2901986,R D Blankenship Dirt Work LLC  ,NM ,Active 
+M ,"Sand, Common ",Molino Pit,Surface,0801417,"Sand & Dirt, Inc  ",FL ,Active 
+M ,Construction Sand and Gravel ,Pettibone Jaw Crusher,Surface,4300768,SIMPSON DIRTWORX LLC  ,VT ,Intermittent 
+M ,Construction Sand and Gravel ,Chieftan 1400,Surface,4300776,SIMPSON DIRTWORX LLC  ,VT ,Intermittent 
+M ,Construction Sand and Gravel ,Mike's Money Pit,Surface,2302283,"Spry's Dirt & Gravel, Inc.  ",MO ,Intermittent 
+M ,Construction Sand and Gravel ,Crusher,Surface,2103518,Vogt Dirt Service  ,MN ,Intermittent 
